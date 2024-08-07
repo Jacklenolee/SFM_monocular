@@ -29,12 +29,4 @@
 
 使用的数据集是古斯塔夫二世阿道夫的雕像（[链接](http://www.maths.lth.se/matematiklth/personal/calle/dataset/dataset.html)）。所有图像均用于获取稀疏点云。
 
-示例图像：
-<img src="image.jpg" alt="图像" style="缩放：25%;" />
-
-
-
-＃＃＃ 输出
-
-<img src="Result/result.png" alt="图像" style="缩放：50%;" />
 
